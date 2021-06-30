@@ -1,4 +1,4 @@
-e-Volve
+e-Volve Web App
 
 A mock e-commerce website built using React-Redux.
 Hosted in Google-Firebase (checkout this link : https://e-volve-80dcc.firebaseapp.com/)
